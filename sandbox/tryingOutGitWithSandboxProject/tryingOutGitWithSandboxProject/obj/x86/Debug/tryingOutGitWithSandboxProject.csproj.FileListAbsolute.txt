@@ -1,0 +1,8 @@
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\bin\Debug\tryingOutGitWithSandboxProject.exe
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\bin\Debug\tryingOutGitWithSandboxProject.pdb
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\obj\x86\Debug\tryingOutGitWithSandboxProject.Properties.Resources.resources
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\obj\x86\Debug\tryingOutGitWithSandboxProject.exe
+C:\Cookbook\cookbook\sandbox\tryingOutGitWithSandboxProject\tryingOutGitWithSandboxProject\obj\x86\Debug\tryingOutGitWithSandboxProject.pdb
